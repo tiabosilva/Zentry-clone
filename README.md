@@ -22,7 +22,8 @@ and many more, including code architecture and reusability
 #Quick Start
 Follow these steps to set up the project locally on your machine.
 
-##Cloning the Repository
+
+#Cloning the Repository
 
 git clone https://github.com/adrianhajdin/award-winning-website.git
 cd award-winning-website
