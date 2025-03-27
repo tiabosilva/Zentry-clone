@@ -19,20 +19,19 @@ Tailwind CSS
 👉 Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
 
 and many more, including code architecture and reusability
-#Quick Start
+# Quick Start
 Follow these steps to set up the project locally on your machine.
 
-
-#Cloning the Repository
+## Cloning the Repository
 
 git clone https://github.com/adrianhajdin/award-winning-website.git
 cd award-winning-website
-##Installation
+## Installation
 
 Install the project dependencies using npm:
 
 npm install
-##Running the Project
+## Running the Project
 
 npm run dev
 Open http://localhost:5173 in your browser to view the project.
