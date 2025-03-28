@@ -24,7 +24,7 @@ Follow these steps to set up the project locally on your machine.
 
 ## Cloning the Repository
 
-git clone https://github.com/adrianhajdin/award-winning-website.git
+git clone https://github.com/tiabosilva/Zentry-clone/.git
 cd award-winning-website
 ## Installation
 
